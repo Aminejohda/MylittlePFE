@@ -1,0 +1,27 @@
+.star{
+	color: #ccc;
+	cursor: pointer;
+	transition: all 0.2s linear;
+}
+.star-checked{
+	color: #FFD700;
+}
+#result{
+	display: none;
+}
+b.r{
+	color: #FFD700;
+}
+b.g{
+	color: green;
+}
+.star2{
+	color: 	#FFD700;
+}
+#liact {
+	background-color : white ; width : 300px;
+}
+#liact:hover {
+	background-color : #F5F5F5 ;
+	cursor: pointer;
+}

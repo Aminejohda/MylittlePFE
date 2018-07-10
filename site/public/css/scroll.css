@@ -1,0 +1,17 @@
+#nave{
+padding: 5px;
+
+}
+#nave ul{
+    margin: 80px;
+    padding: 0;
+    display: block;
+}
+br.clearLeft { clear: left;} 
+.inpu {
+   width: 381px;
+    height: 30px; 
+    font: 19px Arial;
+    color: black;
+    
+    }
